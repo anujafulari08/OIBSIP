@@ -1,6 +1,6 @@
 # StudySphere
 
-StudySphere is a simple and student-friendly learning website designed for B.Tech and college students.
+StudySphere is a simple and student-friendly learning website designed for engineering and college students.
 
 It brings useful academic and career-related resources together in one place, making it easier for students to learn, practice and prepare for their future.
 
